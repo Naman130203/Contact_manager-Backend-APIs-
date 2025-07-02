@@ -10,5 +10,5 @@ STEPS FOR RUNNING THE APPLICATION :-
 - Install all the node packages using "npm i" commmand.
 - Make sure all the packages are installed.
 - Connect your MongoDB database with the VS Code using the mongoDB extension.
-- 
+  
 
